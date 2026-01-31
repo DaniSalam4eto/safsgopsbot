@@ -1,2 +1,2 @@
-// Entry point for Pterodactyl / HaZeyHosting (panel runs "node main.js")
+// Entry point for Pterodactyl 
 require('./index.js');
